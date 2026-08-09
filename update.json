@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.4.0",
+  "latest_version": "1.6.0",
   "download_url": "https://github.com/Username/RepoName/releases/download/v1.4.0/Update.exe",
   "is_mandatory": false,
   "changelog": "Fixed bugs."
