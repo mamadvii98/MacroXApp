@@ -2,10 +2,10 @@
   "latest_version": "1.4.5",
   "download_url": "https://github.com/mamadvii98/MacroXApp/releases/download/update/MacroX_v1.4.5.exe",
   "is_mandatory": false,
-  "changelog": "✨ Version 1.4.4 - What's New:
+  "changelog": "Version 1.4.5 - What's New:
 
-• Full optimization & massive CPU usage reduction
-• Added Auto Crouch feature (automatically crouches while firing)
-• Separated features into a new dedicated "Features" tab
-• UI redesign with a sleek gold-yellow & dark gray theme"
+1.Full optimization & massive CPU usage reduction
+2.Added Auto Crouch feature (automatically crouches while firing)
+3.Separated features into a new dedicated "Features" tab
+4.UI redesign with a sleek gold-yellow & dark gray theme"
 }
